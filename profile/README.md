@@ -30,7 +30,14 @@ Over time, I’ve developed a strong passion for **cybersecurity**, **automation
     - Developed strong foundations in **software engineering**, **algorithms**, and **data structures**.
         
     - Created multiple academic projects in **Java**, **C**, and **Flutter**, now archived under my organization _La Salle Computer Engineering_.
-        
+
+## 📜 Certifications
+
+- **Google Cybersecurity Professional Certificate** — Coursera. *(Completed: Aug 2024)*, [Show Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/V6O0XNUCJJ9X)  
+- **IELTS Academic — Overall Band Score: 7.0** — IELTS Official. *(Apr 2025)*, Credential ID: 25ES500098ROCA017A
+
+> These certifications reflect my foundational knowledge in cybersecurity and my English proficiency for academic and professional contexts.
+
 
 ---
 
