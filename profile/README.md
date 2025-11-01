@@ -89,9 +89,13 @@ Prepare for professional certifications such as eJPT and OSCP.
 🧩 Tech Stack
 
 Languages: Python, Java, C, Bash, PowerShell
+
 Systems: Linux, Windows
+
 Security: Wireshark, Nmap, Burp Suite, Metasploit
+
 Tools: Git, GitHub, Docker, VS Code, Obsidian
+
 Methodologies: Agile, ITIL, Project Management
 
 ---
