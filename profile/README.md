@@ -38,27 +38,6 @@ Over time, I’ve developed a strong passion for **cybersecurity**, **automation
 
 > These certifications reflect my foundational knowledge in cybersecurity and my English proficiency for academic and professional contexts.
 
-
----
-
-## 🧠 Current Focus
-
-I’m currently pursuing my **Master’s in Cyber Security** at the  
-**Brandenburg University of Technology (B-TU), Germany** 🇩🇪 (2025–2027).
-
-My goal is to bridge my **IT management experience** with **technical cybersecurity expertise**, developing advanced skills in:
-
-- Network and system security
-    
-- Threat detection and response
-    
-- Secure software development
-    
-- Cloud infrastructure protection
-    
-- Ethical hacking and digital forensics
-    
-
 ---
 
 ## 🧩 My GitHub Ecosystem
@@ -67,7 +46,6 @@ Here’s how I’ve organized my learning and professional projects across diffe
 
 |Organization|Description|
 |---|---|
-|🧠 [**B-TU Master Cyber Security**](https://github.com/B-TU-Master-Cyber-Security)| My academic journey and projects during my Master’s in Cybersecurity at B-TU, Germany.|
 |⚙️ [**GitFeaturesLabs**](https://github.com/GitFeaturesLabs)| Experiments, automation scripts, and GitHub Labs projects to explore DevOps and Git workflows.|
 |🎮 [**UnityMiniProjects**](https://github.com/UnityMiniProjects)| Game development projects inspired by Unity Learn — focused on creativity and logic.|
 |🏫 [**La Salle Computer Engineering**](https://github.com/La-Salle-Computer-Engineering)| Academic repositories from my bachelor’s studies, showcasing algorithms and data structures.|
