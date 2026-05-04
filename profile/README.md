@@ -13,24 +13,6 @@ Over time, I’ve developed a strong passion for **cybersecurity**, **automation
 
 ---
 
-## 🧭 My Professional Journey
-
-- 💼 **IT Project Manager & Administrator – MB92 Barcelona**  
-    _2019 – Present_
-    
-    - Leading digital transformation initiatives and optimizing IT infrastructure.
-        
-    - Managing projects involving **Azure**, **Duo/YubiKey authentication**, and **enterprise software integration**.
-        
-    - Collaborating cross-functionally to improve security compliance and business efficiency.
-        
-- 🎓 **Bachelor in Computer Engineering – La Salle (Universitat Ramon Llull)**
-    _2016 - 2022_
-    
-    - Developed strong foundations in **software engineering**, **algorithms**, and **data structures**.
-        
-    - Created multiple academic projects in **Java**, **C**, and **Flutter**, now archived under my organization _La Salle Computer Engineering_.
-
 ## 📜 Certifications
 
 - **Google Cybersecurity Professional Certificate** — Coursera. *(Completed: Aug 2024)*, [Show Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/V6O0XNUCJJ9X)  
